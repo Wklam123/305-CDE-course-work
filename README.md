@@ -15,3 +15,6 @@ https://youtu.be/gZ1czy-wPkg
 testing doc
 
 https://drive.google.com/file/d/0B0QjDSyBsHf1TXdZTEh0YXhRM3M/view?usp=sharing
+
+
+there are still some function need to add such as search

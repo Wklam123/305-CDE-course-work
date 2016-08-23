@@ -11,8 +11,8 @@ app.get('/insert', function(req, res){
 
 
 var url = "http://api.openweathermap.org/data/2.5/weather?q=HongKong&appid=31538fe27dd36887159b09eb67838b37"
-//c8d1e16fce9a81cb2c9df0ce0026a09a
-//31538fe27dd36887159b09eb67838b37
+//c8d1e16fce9a81cb2c9df0ce0026a09a api key 1
+//31538fe27dd36887159b09eb67838b37 api key 2
 var request = require("request")
 request({
     url: url,
@@ -32,7 +32,7 @@ var data = {
     visibility:body.visibility,
     wind:body.wind,
 
-   //weather: response.body[0].main,
+   //get json from weather
 };
 // Print the json response
     }
@@ -62,7 +62,7 @@ app.get('/get', function(req, res){
   }
  );
 });
-
+//view the couch db
 
 app.delete('/delete', function(req, res){
 
@@ -71,8 +71,13 @@ test_db.destroy('11', null, function(err, body) {
     console.log('delete complete');
 });
 
+//app.search('characters', 'crazy_ones', { q: 'cat' }, function(err, doc) {
+//  if (!err) {
+//    console.log(doc);
+//  }
+//});
 
-
+//delete
 });
 /*
 

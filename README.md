@@ -7,3 +7,8 @@ and then add db just simple get , view and delete function
 
 
 http://openweathermap.org/forecast5
+
+
+testing video 
+https://youtu.be/gZ1czy-wPkg
+

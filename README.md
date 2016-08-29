@@ -1,20 +1,15 @@
-# 305-CDE-course-work
-testing
-157240408
+### WeatherApp
+NodeJs Weather App
+##Start Application
+```
+git clone 
+cd WeatherApp
+node index.js
+```
+##open browser
+```
+http://localhost:port  where port is given in console
+```
 
-Just change with simple api connect with couchdb install (http://couchdb.apache.org/)
-and then add db just simple get , view and delete function
-
-
-http://openweathermap.org/forecast5
-
-
-testing video 
-https://youtu.be/gZ1czy-wPkg
-
-testing doc
-
-https://drive.google.com/file/d/0B0QjDSyBsHf1TXdZTEh0YXhRM3M/view?usp=sharing
-
-
-there are still some function need to add such as search and login
+##
+need to install few compments

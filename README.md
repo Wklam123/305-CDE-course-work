@@ -14,5 +14,5 @@ and npm install
 link with full file 
 with all compoments
 
-https://drive.google.com/open?id=0B0QjDSyBsHf1TFBlUUdidDU1U2c
+https://drive.google.com/open?id=0B0QjDSyBsHf1QzdZZ0h0bFFucmc
 
